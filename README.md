@@ -1,4 +1,7 @@
+### comandos git
+![alt text](image.png)
 ### code . -> abre o visual code na pasta atual
+
  
 ### mkdir nome -> criação de pasta
  
@@ -17,6 +20,7 @@
                       ... user.email -> email do autor
  
         --list -> lista as configurações
+
  
 # git config --global user.name "Fulano da Silva"
  
